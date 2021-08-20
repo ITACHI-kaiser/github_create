@@ -1,0 +1,181 @@
+header {
+  cursor: pointer;
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+}
+.header-left {
+  float: left;
+  color: white;
+  font-size: 60px;
+  font-size: bold;
+}
+.header-list li {
+  float: left;
+  color: white;
+  margin: 50px 20px 10px 30px;
+}
+li {
+  list-style: none;
+  cursor: pointer;
+}
+.top-wrapper {
+  padding: 20px 0 130px 0;
+  background-image: url(https://lh5.googleusercontent.com/p/AF1QipMUj4FWzO-geDFdOTHj7Gf8vvmCM8dQmh6D407H=s1600-w800);
+  background-size: cover;
+  text-align: right;
+}
+h1 {
+  opacity: 0.5;
+  color: greenyellow;
+  letter-spacing: 2px;
+}
+p {
+  opacity: 0.6;
+  letter-spacing: 5px;
+}
+h2 {
+  text-align: center;
+  font-weight: normal;
+  border-bottom: solid slateblue;
+}
+.sports-list {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: slategray;
+  text-align: center;
+}
+.club-sports {
+  height: auto;
+  padding-bottom: 80px;
+  background-color: grey;
+}
+.sports {
+  float: left;
+  width: 25%;
+  margin: auto;
+}
+.sports-icon {
+  position: relative;
+  margin-top: 20px;
+}
+.sports-icon p {
+  position: absolute;
+  top: 70px;
+  left: 50px;
+  width: 100%;
+  color: black;
+  font-weight: bold;
+}
+.text {
+  display: inline-block;
+  width: 80%;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #b3aeb5;
+}
+.mid {
+  height: 600px;
+  width: 100%;
+  background-color: teal;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 500px;
+  padding: 40px;
+}
+.footer-logo {
+  float: left;
+  font-size: 25px;
+  margin-left: 5px;
+  padding: 30px 0 0 20px;
+}
+.footer-color {
+  background-color: #b3aeb5;
+  height: 100px;
+}
+.footer-list {
+  float: right;
+  margin: 5px;
+  
+}
+.footer-list li {
+  font-size: 10px;
+  margin: 5px 20px 5px 5px;
+  
+}
+.footer-logo p {
+  font-size: 15px;
+  margin: 0 0 0 20px;
+}
+.message span {
+  color: red;
+}
+.brand {
+  height: 150px;
+  width: 150px;
+  background-color: whitesmoke;
+  float: left;
+  margin: 20px 30px 20px 30px;
+  border-radius: 15px;
+}
+.nike {
+  background-image: url(https://image.rakuten.co.jp/jam-ing/cabinet/brandlogo/nike2019.jpg);
+  background-size: cover;
+}
+.adidas {
+  background-image: url(https://shop.adidas.jp/creative/202108/ORI-jeremy_scott_lockup_h_bwp_2108_c5ea756c.png);
+  background-size: cover;
+}
+.mizuno {
+  background-image: url(https://www.brand-yurai.net/logoimg/lKRpF5OHILbDwp6X.gif);
+  background-size: cover;
+}
+.brand p {
+  text-align: center;
+}
+.brand a{
+  display: inline-block;
+  margin: 70px 30px 5px 50px;
+
+}
+.brand-list {
+  height: 300px;
+  background-image: url(https://media.istockphoto.com/vectors/sports-set-of-athletes-of-various-sports-disciplines-isolated-vector-vector-id1141191007?k=6&m=1141191007&s=612x612&w=0&h=B44TFs2uCsr-qBnnpLdTkIqF0SpcStaYZABPyPCRlMw=);
+  width: 95%;
+  margin: auto;
+}
+.btn-sns {
+  margin-top: 50px;
+  height: 170px;
+  width: 300px;
+  margin-left: 50px;
+  background-color: #fff;
+}
+.btn {
+  padding: 13px 13px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 6px;
+  margin-top: 30px;
+  text-align: center;
+}
+.twitter {
+  background-color: #55acee;
+}
+.facebook {
+  background-color: #3b5998;
+}
+.instagram {
+  background-color: violet;
+}
+.youtube {
+  background-color: red;
+}
+.btn-sns p {
+  color: deeppink;
+  text-align: center;
+  margin-top: 20px;
+}
